@@ -18,3 +18,4 @@ class EmailParser
   end
 end
  
+ EmailParser.
