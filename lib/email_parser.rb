@@ -18,4 +18,4 @@ class EmailParser
   end
 end
  
- EmailParser.
+ EmailParser.new
